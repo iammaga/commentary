@@ -1,0 +1,6 @@
+{
+    "paths": ["node_modules"],
+    "relativeUrls": false,
+    "javascriptEnabled": true,
+    "sourceMap": true
+}
